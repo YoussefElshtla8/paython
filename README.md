@@ -1,4 +1,4 @@
-##Python - Data Analysis Journey
+## Python - Data Analysis Journey
 
 Welcome to my Python and Data Analysis learning journey!
 
