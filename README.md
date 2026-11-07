@@ -25,7 +25,7 @@ Practical Work
 
 Working with CSV datasets, cleaning data, handling missing values, and exploring data using Python libraries.
 
-Goal
+**Goal**
 
 To continuously improve my programming and analytical skills and build practical Data Analysis projects.
 
