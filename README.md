@@ -4,7 +4,7 @@ Welcome to my Python and Data Analysis learning journey!
 
 This repository contains my practical exercises, notes, and projects as I develop my programming and data analysis skills.
 
-##Technologies & Libraries
+## Technologies & Libraries
 
 - Python
 - NumPy
@@ -12,7 +12,7 @@ This repository contains my practical exercises, notes, and projects as I develo
 - Matplotlib
 - Jupyter Notebook
 
-##Topics Covered
+## Topics Covered
 
 - Python Fundamentals
 - NumPy Basics
@@ -21,11 +21,11 @@ This repository contains my practical exercises, notes, and projects as I develo
 - Data Visualization
 - Python Problem Solving
 
-##Practical Work
+## Practical Work
 
 Working with CSV datasets, cleaning data, handling missing values, and exploring data using Python libraries.
 
-##Goal
+## Goal
 
 To continuously improve my programming and analytical skills and build practical Data Analysis projects.
 
